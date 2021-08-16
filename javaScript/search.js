@@ -23,7 +23,7 @@ function addname(e){
 
     li.appendChild(btn)
 
-    
+    item.value = '';
 
 
 }
