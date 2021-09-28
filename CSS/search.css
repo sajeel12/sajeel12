@@ -190,7 +190,7 @@ a:hover{
         
     @media(max-width:600px){
     #main{
-        width: 85%;
+        width: 80%;
         float: none;
     }
     #navbar{
