@@ -178,3 +178,68 @@ a:hover{
 
 
     }
+
+    @media(min-width:600px)  {
+        #navbarM{
+            display: none;
+        }
+        
+    }
+    
+    
+        
+    @media(max-width:600px){
+    #main{
+        width: 85%;
+        float: none;
+    }
+    #navbar{
+        display: none;
+    }
+    
+    #navbarM{
+        background-color: #333;
+        padding:13px;
+        margin: 10px;
+        border-radius: 15px;
+    }
+    #navbM{
+        background-color: #333;
+        color: white;
+        font-size: 18px;
+        font-weight: bold;
+        border: none;
+        border-radius: 6px;
+    }
+    #navbM:hover{
+        background-color: rgb(255, 255, 255);
+        color: black;
+    }
+    #navbMl:hover{
+        background-color: rgb(0, 0, 0);
+        color: rgb(207, 207, 207);
+    }
+    #navbMl{
+        display:list-item;
+        list-style: none;
+        background-color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+        font-size: 17px;
+        font-weight: bold;
+        border: none;
+        border-radius: 6px;
+        padding:  1px ;
+        margin:  5px;
+    }
+    #mylinks{
+        position: relative;
+        display: none;
+        
+    }
+    a{
+        list-style: none;
+        text-decoration: none;
+    }
+
+    
+    }

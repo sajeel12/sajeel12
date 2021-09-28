@@ -23,29 +23,66 @@ a:hover{
     width: 80%;
     margin: auto;
     overflow: hidden;
+}
 
-}
-#navbar{
-    background-color: black;
-    color: rgb(255, 255, 255);
+    #navb:hover{
 
-}
-#navbar ul{
-    list-style-type: none;
-    padding: 0;
-}
-#navbar li{
-  
-
-    display: inline;
-}
-#navbar a{
-    text-decoration: none;
-    font-size: 18px;
-  font-weight: bold;
-    padding-right: 15px;
-
-}
+        background-color: rgb(255, 255, 255);
+        color: black;
+    
+    }
+    
+    #navbar{
+    
+        background-color: #333;
+        color: #fff;
+        margin: 1% 2% 0% 2%;
+        border-radius: 15px;
+    }
+    #navbar {
+        padding:13px;
+    }
+    
+    
+    
+    #navb{
+    
+        background-color: #333;
+        color: white;
+        font-size: 18px;
+        font-weight: bold;
+        border: none;
+        border-radius: 6px;
+    }
+    
+    
+    #navbar button{
+    
+        display: inline;
+    }
+    #navbar a{
+        font-weight: bold;
+        text-decoration: none;
+        font-size: 18px;
+        padding: px;
+    }
+    .btn{
+        float: right;
+        padding: 6px 15px;
+        background-color: rgb(133, 255, 119);
+        background-position: 50px;
+        border: none;
+        border-radius: 10px;
+        font-size: 15px;
+        font-weight: bold;
+        font-family:Verdana, Geneva, Tahoma, sans-serif ;
+        
+    }
+    .btn:hover{
+        color: rgb(255, 255, 255);
+        background-color: rgb(89, 172, 0);
+        
+    }
 #showcase{
     background-image: url(../IMAGES/blue.jpg);
     height: 300px;
@@ -114,6 +151,77 @@ a:hover{
 }
     
 
+@media(min-width:600px)  {
+    #navbarM{
+        display: none;
+    }
+    
+}
 
+
+    
+@media(max-width:600px){
+#main{
+    width: 100%;
+    float: none;
+}
+#sidebar{
+    width: 100%;
+    float: none;
+}
+#showcase h1{
+    /* margin: 100px; */
+    position: absolute;
+    /* float: none; */
+}
+#navbar{
+    display: none;
+}
+
+#navbarM{
+    background-color: #333;
+    padding:13px;
+    margin: 10px;
+    border-radius: 15px;
+}
+#navbM{
+    background-color: #333;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+}
+#navbM:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+#navbMl:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(207, 207, 207);
+}
+#navbMl{
+    display:list-item;
+    list-style: none;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    padding:  1px ;
+    margin:  5px;
+}
+#mylinks{
+    position: relative;
+    display: none;
+    
+}
+a{
+    list-style: none;
+    text-decoration: none;
+}
+
+}
 
 
