@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Sajeel
 
+<div style="display: inline-block;" >
+  
+Welcome to my GitHub! I'm a Full Stack Engineer specializing in the **MERN Stack**, **Django**, and **DevOps**. I enjoy building efficient, scalable web applications and automating deployment processes.
 
 <img src="https://assets-v2.lottiefiles.com/a/bb148200-1161-11ee-918b-575af12c5d51/SmaxpmxSgY.gif" width="30%" height="auto">
 
-Welcome to my GitHub! I'm a Full Stack Engineer specializing in the **MERN Stack**, **Django**, and **DevOps**. I enjoy building efficient, scalable web applications and automating deployment processes.
 
+</div>
 ---
 
 ## 🚀 About Me
