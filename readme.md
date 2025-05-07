@@ -53,7 +53,6 @@
 ## 🌍 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sajeel-ahmad-31064a1a0/)
-- [Twitter](https://twitter.com/your-twitter-handle)
 - [Email](mailto:msajeelahmad2001@gmail.com)
 
 ---
