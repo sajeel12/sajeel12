@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sajeel
 
-<div style="display: flex;" >
+<div style="display: inline-block;" >
   
 <p> Welcome to my GitHub! I'm a Full Stack Engineer specializing in the **MERN Stack**, **Django**, and **DevOps**. I enjoy building efficient, scalable web applications and automating deployment processes.</p>
 
