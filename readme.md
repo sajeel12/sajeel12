@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sajeel
 
 ![Header Image](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub)
-![Typing GIF]([https://via.placeholder.com/400x400?text=GIF+of+a+person+typing+on+a+computer](https://assets-v2.lottiefiles.com/a/bb148200-1161-11ee-918b-575af12c5d51/SmaxpmxSgY.gif))
+![Typing GIF](https://assets-v2.lottiefiles.com/a/bb148200-1161-11ee-918b-575af12c5d51/SmaxpmxSgY.gif)
 
 Welcome to my GitHub! I'm a Full Stack Engineer specializing in the **MERN Stack**, **Django**, and **DevOps**. I enjoy building efficient, scalable web applications and automating deployment processes.
 
