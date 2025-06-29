@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **open-source web development projects**.
 - 🤔 I’m open to exploring new **technologies**, **tools**, and **frameworks**.
 - 💬 Ask me about **MERN stack**, **Django**, **DevOps**, **AWS**, **CI/CD**, or anything related to **web development**.
-- 📫 How to reach me: [Your Email] | [LinkedIn Profile] | [Your Twitter Handle]
+- 📫 How to reach me: msajeelahmad2001@gmail.com 
 
 ---
 
