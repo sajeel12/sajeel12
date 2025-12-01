@@ -56,7 +56,7 @@ Here’s a quick overview of the type of projects I’ve built:
 
 ## 🌍 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/sajeel-ahmadd  
+- **LinkedIn:** https://www.linkedin.com/in/sajeel-dilshad  
 - **Email:** msajeelahmad2001@gmail.com  
 
 ---
