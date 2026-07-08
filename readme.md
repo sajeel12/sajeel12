@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&width=600&lines=Agentic+AI+Engineer;Building+systems+that+think;Full+Stack+%7C+MERN+%7C+AWS;Open+to+remote+projects)
 # Sajeel Dilshad
 
 **Agentic AI Engineer · Tech Lead · Full Stack**
