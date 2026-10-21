@@ -136,7 +136,11 @@ What sets me apart: **5+ years of production full-stack delivery** (MERN, Next.j
 
 <img src="https://streak-stats.demolab.com?user=sajeel12&theme=tokyonight&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sajeel12&theme=tokyo-night&hide_border=true&color=6366F1&line=6366F1&point=ffffff&area=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajeel12/sajeel12/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajeel12/sajeel12/output/github-snake.svg" />
+  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/sajeel12/sajeel12/output/github-snake.svg" />
+</picture>
 
 </div>
 
